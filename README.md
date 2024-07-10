@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Hafizur Rahman Ruman</h1>
+<div align="center">May the peace, mercy, and blessings of Allah be upon you</div>
+
+<h1 align="center">I'm Hafizur Rahman Ruman</h1>
 
 <div align="center" href="https://git.io/typing-svg">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=A+passionate+SQA+Engineer;From+Bangladesh." alt="Typing SVG" />
