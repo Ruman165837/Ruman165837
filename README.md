@@ -14,20 +14,20 @@
         alt="Ruman165837" />
 </p>
 
-- 🔭 I'm currently working on **Full stack development, manual and automation testing**
+- 🔭 I'm currently working on **I am a full-stack SQA and software test automation engineer having 2+ years of experience in the Software, Telco, and Mobile Financial Service (MFS) industry. I have worked with some complex software systems (ERP and Financial Solutions) and achieved an efficient experience over it. I always try to fulfill my responsibilities on time and play a significant role along with my team. I always think that patience, dedication, and new things learning mindset is the key to success.**
 
 - 📫 All of my projects are available at [https://github.com/Ruman165837?tab=repositories](https://github.com/Ruman165837?tab=repositories)
 
-- 💬 Ask me about **Manual Testing, Automation Testing, API Testing.**
+- 💬 Ask me about **Manual Testing, Automation Testing, API Testing, Performance Testing**
 
 <h3 align="center">
     Connect with me:
 </h3>
 <p align="center">
-    <a href="mailto:rumanislam165837@gmail.com">
+    <a href="mailto:rumanislam862193@gmail.com">
         <img align="center"
         src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"
-        alt="rumanislam165837@gmail.com" height="30" width="80" />
+        alt="rumanislam862193@gmail.com" height="30" width="80" />
     </a>
     <a href="https://github.com/Ruman165837" target="blank">
         <img align="center"
