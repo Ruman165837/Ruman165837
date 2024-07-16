@@ -14,7 +14,7 @@
         alt="Ruman165837" />
 </p>
 
-- 🔭 I'm currently working on **I am a full-stack SQA and software test automation engineer having 2+ years of experience in the Software, Telco, and Mobile Financial Service (MFS) industry. I have worked with some complex software systems (ERP and Financial Solutions) and achieved an efficient experience over it. I always try to fulfill my responsibilities on time and play a significant role along with my team. I always think that patience, dedication, and new things learning mindset is the key to success.**
+- 🔭 I'm currently working on **I am a full-stack SQA and software test automation engineer having 2+ years of experience in the Software, ERP and Financial Solution Industry. I always try to fulfill my responsibilities on time and play a significant role along with my team. I always think that patience, dedication, and new things learning mindset is the key to success.**
 
 - 📫 All of my projects are available at [https://github.com/Ruman165837?tab=repositories](https://github.com/Ruman165837?tab=repositories)
 
