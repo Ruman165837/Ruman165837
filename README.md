@@ -34,6 +34,9 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
             alt="Ruman165837" height="30" width="40" />
     </a>
+    <a href="https://www.linkedin.com/in/md-ruman-islam" rel="nofollow">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ruman-islam" height="30" width="40" style="max-width: 100%;">
+    </a>
 </p>
 
 <h3 align="left">
