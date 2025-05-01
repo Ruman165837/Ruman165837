@@ -14,7 +14,7 @@
         alt="Ruman165837" />
 </p>
 
-- 🔭**I am a full-stack SQA and software test automation engineer with 2+ years of experience in the Software, ERP, and Financial Solution Industry. I always try to fulfill my responsibilities on time and play a significant role along with my team. I always think that patience, dedication, and new a learning mindset are the key to success.**
+- 🔭**I am a full-stack SQA and software test automation engineer with 3+ years of experience in the Software, ERP, and Financial Solution Industry. I always try to fulfill my responsibilities on time and play a significant role along with my team. I always think that patience, dedication, and new a learning mindset are the key to success.**
 
 - 📫 All of my projects are available at [https://github.com/Ruman165837?tab=repositories](https://github.com/Ruman165837?tab=repositories)
 
